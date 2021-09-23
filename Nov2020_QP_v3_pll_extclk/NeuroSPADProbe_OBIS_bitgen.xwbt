@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.ncd
+OUTFILE=/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.bit
+FAMILY=Spartan6
+PART=xc6slx45-2fgg484
+WORKINGDIR=/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk
+LICENSE=ISE
+USER_INFO=207312351_1777494964_210673932_226

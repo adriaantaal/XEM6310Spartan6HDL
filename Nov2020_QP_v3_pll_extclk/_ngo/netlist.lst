@@ -1,0 +1,15 @@
+/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.ngc 1600350035
+../at_modules/opalkelly/okWireIn.ngc 1516108570
+../at_modules/opalkelly/okWireOut.ngc 1516108568
+../at_modules/opalkelly/okTriggerIn.ngc 1516108572
+../at_modules/opalkelly/okTriggerOut.ngc 1516108570
+../at_modules/opalkelly/okBTPipeIn.ngc 1516108580
+../at_modules/opalkelly/okBTPipeOut.ngc 1516108578
+../at_modules/fifo/FIFO_I128b_O32b.ngc 1516108604
+../at_modules/fifo/FIFO_I32b_O256b.ngc 1567198058
+../at_modules/fifo/FIFO_I16b_O128b.ngc 1516108596
+../at_modules/fifo/FIFO_I256b_O1024b.ngc 1567198501
+../at_modules/fifo/FIFO_I1024b_O1024b.ngc 1587759739
+../at_modules/opalkelly/okCoreHarness.ngc 1516108578
+../at_modules/opalkelly/TFIFO64x8a_64x8b.ngc 1516108568
+OK

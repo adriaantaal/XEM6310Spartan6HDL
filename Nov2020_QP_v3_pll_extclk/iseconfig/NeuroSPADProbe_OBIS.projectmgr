@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="NeuroSPADProbe_OBIS" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Automatic `includes</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Dropbox|Dropbox|34 OK measurement|13_PDP_NewBatch|opalkelly|jan08_mother_v2_05mmfpc|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Nov2018_quadprobe_v1_03mmfpc_pll_extclk_20MHz|NeuroSPADProbe_OBIS.vhd</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Nov2018_quadprobe_v1_03mmfpc_pll_intclk|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Nov2018_quadprobe_v1_03mmfpc_pll_intclk|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Users|CK|Dropbox|caltechVisit2_Dec17|opalkelly|Fluorescence_TiSapph_SPortDel|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Users|Jaebin|Downloads|followup|fluorescence_tisapph_backto15|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Users|adriaantaal|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Fluorescence_OBIS|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Users|adriaantaal|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Fluorescence_OBIS|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc/memc3_wrapper_inst - memc3_wrapper - acch</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Users|adriaantaal|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Fluorescence_OBIS|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Users|adriaantaal|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|jan08_mother_v2_03mmfpc_pll_extclk_80MHz|NeuroSPADProbe_OBIS.vhd</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Users|adriaantaal|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|jan08_mother_v2_03mmfpc_pll_extclk_80MHz|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Users|adriaantaal|Dropbox|Lensless 3D imager|34 OK measurement|13_PDP_NewBatch|opalkelly|jan08_mother_v2_03mmfpc_pll_extclk_80MHz|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral C:|Users|adriaantaal|Dropbox|Lensless 3D imager|34 OK measurement|13_PDP_NewBatch|opalkelly|jan08_mother_v2_03mmfpc_pll_extclk_80MHz|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Graduation Research|52 VHDL blocks|Nov2020_QP_v3_pll_extclk|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Graduation Research|52 VHDL blocks|Nov2020_QP_v3_pll_intclk|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Graduation Research|52 VHDL blocks|Nov2020_QP_v3_pll_intclk|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Feb09_dualprobe_v1_03mmfpc_pll_extclk_20MHz|NeuroSPADProbe_OBIS.vhd</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Feb09_dualprobe_v1_03mmfpc_pll_extclk_20MHz|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Feb09_dualprobe_v1_03mmfpc_pll_extclk_20MHz|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Nov2018_quadprobe_v1_03mmfpc_pll_extclk_20MHz|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Nov2018_quadprobe_v1_03mmfpc_pll_extclk_20MHz|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Nov2018_quadprobe_v1_03mmfpc_pll_intclk|NeuroSPADProbe_OBIS.vhd</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Nov2018_quadprobe_v1_03mmfpc_pll_intclk|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Nov2018_quadprobe_v1_03mmfpc_pll_intclk|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc/memc3_wrapper_inst - memc3_wrapper - acch</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral D:|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Nov2018_quadprobe_v1_03mmfpc_pll_intclk|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral |u5|adriaantaal|Xilinx|33 NeuroSPADProbe OK|Fluorescence_OBIS|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral |u5|adriaantaal|Xilinx|33 NeuroSPADProbe OK|Fluorescence_OBIS|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral |u5|adriaantaal|Xilinx|Fluorescence_OBIS|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral |u5|adriaantaal|Xilinx|Fluorescence_OBIS|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc/memc3_wrapper_inst - memc3_wrapper - acch</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral |u5|adriaantaal|Xilinx|Fluorescence_OBIS|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral |u5|adriaantaal|Xilinx|Nov2020_QP_v3_pll_extclk|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral |u5|adriaantaal|Xilinx|Nov2020_QP_v3_pll_extclk|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc/memc3_wrapper_inst - memc3_wrapper - acch</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_OBIS - Behavioral |u5|adriaantaal|Xilinx|Nov2020_QP_v3_pll_extclk|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_PLL - Behavioral C:|Users|adriaantaal|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Fluorescence_OBIS|NeuroSPADProbe_OBIS.vhd/MIG - mig_XEM6310_3125MHz - arc</ClosedNode>
+         <ClosedNode>/NeuroSPADProbe_PLL - Behavioral C:|Users|adriaantaal|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Fluorescence_OBIS|NeuroSPADProbe_OBIS.vhd/okHI - okHost - archHost</ClosedNode>
+         <ClosedNode>/mig_XEM6310_3125MHz - arc C:|Users|adriaantaal|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Fluorescence_OBIS|ipcore_dir|mig_XEM6310_3125MHz|user_design|rtl|mig_XEM6310_3125MHz.vhd</ClosedNode>
+         <ClosedNode>/okHost - archHost C:|Users|adriaantaal|Dropbox|Lensless 3D imager|33 NeuroSPADProbe OK|Fluorescence_OBIS|okLibrary.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>NeuroSPADProbe_OBIS - Behavioral (D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >3</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001b6000000020000000000000000000000000200000064ffffffff000000810000000300000002000001b60000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>NeuroSPADProbe_OBIS - Behavioral (D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>CORE Generator</ClosedNode>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000038c000000040101000100000000000000000000000064ffffffff000000810000000000000004000001a20000000100000000000000d70000000100000000000000660000000100000000000000ad0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>2020QP_ext_invivov3.ucf</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>CORE Generator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000200000000010000000100000000000000000000000064ffffffff000000810000000000000001000002000000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000150000000010000000100000000000000000000000064ffffffff000000810000000000000001000001500000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000010c0000011d01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000150000000010000000100000000000000000000000064ffffffff000000810000000000000001000001500000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000d5000000010000000100000000000000000000000064ffffffff000000810000000000000001000000d50000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_NGC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000150000000010000000100000000000000000000000064ffffffff000000810000000000000001000001500000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <CopyAdditionalFiles/>
+</Project>

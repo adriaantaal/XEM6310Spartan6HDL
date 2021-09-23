@@ -1,0 +1,190 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/SPI_masterslave_TB_isim_beh.exe -prj D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/SPI_masterslave_TB_beh.prj work.SPI_masterslave_TB work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" into library work
+Analyzing Verilog file "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" into library work
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 3: Illegal redeclaration of module <udp_retn>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 27: Illegal redeclaration of module <udp_tlat_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 53: Illegal redeclaration of module <udp_jkff>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 88: Illegal redeclaration of module <udp_dff>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 115: Illegal redeclaration of module <udp_sedff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 172: Illegal redeclaration of module <udp_dff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 198: Illegal redeclaration of module <udp_ph2p>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 241: Illegal redeclaration of module <udp_ph1p>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 263: Illegal redeclaration of module <udp_ph1p_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 290: Illegal redeclaration of module <udp_retn_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 314: Illegal redeclaration of module <udp_mux2>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 333: Illegal redeclaration of module <udp_edfft_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 373: Illegal redeclaration of module <udp_tlatrf2_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 411: Illegal redeclaration of module <udp_outrf>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 430: Illegal redeclaration of module <udp_sedfft>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 481: Illegal redeclaration of module <udp_edff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 517: Illegal redeclaration of module <udp_jkff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 555: Illegal redeclaration of module <udp_mux4>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 586: Illegal redeclaration of module <udp_bmx>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 612: Illegal redeclaration of module <udp_tlatrf>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 635: Illegal redeclaration of module <udp_ph2p_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 677: Illegal redeclaration of module <udp_tlat>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 703: Illegal redeclaration of module <udp_tlat2n_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 734: Illegal redeclaration of module <udp_edfft>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 770: Illegal redeclaration of module <udp_xprop>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 794: Illegal redeclaration of module <udp_tlatrf_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 822: Illegal redeclaration of module <udp_sedfft_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 876: Illegal redeclaration of module <udp_tlat2n>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 903: Illegal redeclaration of module <udp_rslatn_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 928: Illegal redeclaration of module <udp_rslat_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 953: Illegal redeclaration of module <udp_rslatn>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 976: Illegal redeclaration of module <udp_rslat>.
+Analyzing Verilog file "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt.v" into library work
+Analyzing Verilog file "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" into library work
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 3: Illegal redeclaration of module <udp_retn>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 27: Illegal redeclaration of module <udp_tlat_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 53: Illegal redeclaration of module <udp_jkff>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 88: Illegal redeclaration of module <udp_dff>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 115: Illegal redeclaration of module <udp_sedff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 172: Illegal redeclaration of module <udp_dff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 198: Illegal redeclaration of module <udp_ph2p>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 241: Illegal redeclaration of module <udp_ph1p>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 263: Illegal redeclaration of module <udp_ph1p_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 290: Illegal redeclaration of module <udp_retn_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 314: Illegal redeclaration of module <udp_mux2>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 333: Illegal redeclaration of module <udp_edfft_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 373: Illegal redeclaration of module <udp_tlatrf2_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 411: Illegal redeclaration of module <udp_outrf>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 430: Illegal redeclaration of module <udp_sedfft>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 481: Illegal redeclaration of module <udp_edff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 517: Illegal redeclaration of module <udp_jkff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 555: Illegal redeclaration of module <udp_mux4>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 586: Illegal redeclaration of module <udp_bmx>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 612: Illegal redeclaration of module <udp_tlatrf>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 635: Illegal redeclaration of module <udp_ph2p_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 677: Illegal redeclaration of module <udp_tlat>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 703: Illegal redeclaration of module <udp_tlat2n_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 734: Illegal redeclaration of module <udp_edfft>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 770: Illegal redeclaration of module <udp_xprop>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 794: Illegal redeclaration of module <udp_tlatrf_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 822: Illegal redeclaration of module <udp_sedfft_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 876: Illegal redeclaration of module <udp_tlat2n>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 903: Illegal redeclaration of module <udp_rslatn_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 928: Illegal redeclaration of module <udp_rslat_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 953: Illegal redeclaration of module <udp_rslatn>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 976: Illegal redeclaration of module <udp_rslat>.
+Analyzing Verilog file "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/phy_spi_slave.v" into library work
+Analyzing Verilog file "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" into library work
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 3: Illegal redeclaration of module <udp_retn>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 27: Illegal redeclaration of module <udp_tlat_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 53: Illegal redeclaration of module <udp_jkff>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 88: Illegal redeclaration of module <udp_dff>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 115: Illegal redeclaration of module <udp_sedff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 172: Illegal redeclaration of module <udp_dff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 198: Illegal redeclaration of module <udp_ph2p>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 241: Illegal redeclaration of module <udp_ph1p>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 263: Illegal redeclaration of module <udp_ph1p_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 290: Illegal redeclaration of module <udp_retn_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 314: Illegal redeclaration of module <udp_mux2>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 333: Illegal redeclaration of module <udp_edfft_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 373: Illegal redeclaration of module <udp_tlatrf2_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 411: Illegal redeclaration of module <udp_outrf>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 430: Illegal redeclaration of module <udp_sedfft>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 481: Illegal redeclaration of module <udp_edff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 517: Illegal redeclaration of module <udp_jkff_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 555: Illegal redeclaration of module <udp_mux4>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 586: Illegal redeclaration of module <udp_bmx>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 612: Illegal redeclaration of module <udp_tlatrf>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 635: Illegal redeclaration of module <udp_ph2p_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 677: Illegal redeclaration of module <udp_tlat>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 703: Illegal redeclaration of module <udp_tlat2n_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 734: Illegal redeclaration of module <udp_edfft>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 770: Illegal redeclaration of module <udp_xprop>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 794: Illegal redeclaration of module <udp_tlatrf_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 822: Illegal redeclaration of module <udp_sedfft_PWR>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 876: Illegal redeclaration of module <udp_tlat2n>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 903: Illegal redeclaration of module <udp_rslatn_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 928: Illegal redeclaration of module <udp_rslat_pwr>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 953: Illegal redeclaration of module <udp_rslatn>.
+WARNING:HDLCompiler:687 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 976: Illegal redeclaration of module <udp_rslat>.
+Analyzing Verilog file "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/../at_modules/counters/clkdivcounter_v1.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Parsing VHDL file "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/spi_master.vhd" into library work
+WARNING:HDLCompiler:957 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/spi_master.vhd" Line 511: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/spi_master.vhd" Line 519: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/spi_master.vhd" Line 527: Case choice must be a locally static expression
+WARNING:HDLCompiler:957 - "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/spi_master.vhd" Line 536: Case choice must be a locally static expression
+Parsing VHDL file "D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/SPI_masterslave_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module glbl
+Compiling module clkdivcounter_v1(0,1,2)
+Compiling module BUFX1
+Compiling module BUFX20
+Compiling module BUFX3
+Compiling module CLKBUFX8
+Compiling module INVX1
+Compiling module BUFX12
+Compiling module BUFX16
+Compiling module CLKBUFX16
+Compiling module BUFX4
+Compiling module CLKBUFX20
+Compiling module INVX2
+Compiling module udp_dff_PWR
+Compiling module udp_mux2
+Compiling module SDFFSX1
+Compiling module DFFSX1
+Compiling module DFFSX4
+Compiling module DFFSX2
+Compiling module DFFNSX2
+Compiling module AND2X1
+Compiling module MXI2X2
+Compiling module AOI2BB2X1
+Compiling module AOI2BB2X2
+Compiling module NOR2X1
+Compiling module AOI222X4
+Compiling module NAND2XL
+Compiling module OAI2BB1X1
+Compiling module OR2X4
+Compiling module AOI21X1
+Compiling module AOI32X4
+Compiling module AOI22X2
+Compiling module AOI22X4
+Compiling module OAI2BB1XL
+Compiling module AOI2BB1X1
+Compiling module NAND3X1
+Compiling module AOI2BB1X2
+Compiling module AND2X4
+Compiling module OR2X1
+Compiling module AND2X2
+Compiling module OR2X2
+Compiling module INVXL
+Compiling module AND3X2
+Compiling module CLKINVX2
+Compiling module NOR3X2
+Compiling module MX2X1
+Compiling module OR3X1
+Compiling module NOR2X2
+Compiling module NAND2X2
+Compiling module NOR2X4
+Compiling module OR3X2
+Compiling module udp_dff
+Compiling module DFFNSRX1
+Compiling module CLKINVX8
+Compiling module phy_spi_slave
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package attributes
+Compiling package std_logic_misc
+Compiling package numeric_std
+Compiling package textio
+Compiling package std_logic_textio
+Compiling package vcomponents
+Compiling package vl_types
+Compiling architecture rtl of entity spi_master [\spi_master(24,'0','0',3,5)\]
+Compiling architecture tb of entity spi_masterslave_tb
+Time Resolution for simulation is 1ps.
+Waiting for 32 sub-compilation(s) to finish...
+Compiled 12 VHDL Units
+Compiled 55 Verilog Units
+Built simulation executable D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/SPI_masterslave_TB_isim_beh.exe
+Fuse Memory Usage: 70372 KB
+Fuse CPU Usage: 3312 ms

@@ -1,0 +1,7 @@
+verilog work "tsmc180/sc9tap_cm018mg_base_rvt_udp.v"
+verilog work "tsmc180/sc9tap_cm018mg_base_rvt_udp.v" "tsmc180/sc9tap_cm018mg_base_rvt.v"
+vhdl work "spi_master.vhd"
+verilog work "tsmc180/sc9tap_cm018mg_base_rvt_udp.v" "phy_spi_slave.v"
+verilog work "tsmc180/sc9tap_cm018mg_base_rvt_udp.v" "../at_modules/counters/clkdivcounter_v1.v"
+vhdl work "SPI_masterslave_TB.vhd"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

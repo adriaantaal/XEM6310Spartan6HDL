@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 3: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_retn</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 27: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 53: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_jkff</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 88: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_dff</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 115: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_sedff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 172: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_dff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 198: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph2p</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 241: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph1p</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 263: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph1p_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 290: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_retn_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 314: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_mux2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 333: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_edfft_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 373: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlatrf2_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 411: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_outrf</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 430: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_sedfft</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 481: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_edff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 517: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_jkff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 555: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_mux4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 586: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_bmx</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 612: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlatrf</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 635: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph2p_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 677: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 703: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat2n_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 734: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_edfft</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 770: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_xprop</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 794: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlatrf_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 822: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_sedfft_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 876: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat2n</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 903: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslatn_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 928: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslat_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 953: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslatn</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 976: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslat</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 3: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_retn</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 27: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 53: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_jkff</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 88: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_dff</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 115: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_sedff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 172: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_dff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 198: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph2p</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 241: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph1p</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 263: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph1p_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 290: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_retn_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 314: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_mux2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 333: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_edfft_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 373: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlatrf2_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 411: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_outrf</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 430: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_sedfft</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 481: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_edff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 517: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_jkff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 555: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_mux4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 586: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_bmx</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 612: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlatrf</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 635: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph2p_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 677: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 703: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat2n_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 734: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_edfft</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 770: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_xprop</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 794: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlatrf_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 822: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_sedfft_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 876: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat2n</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 903: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslatn_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 928: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslat_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 953: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslatn</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 976: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslat</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 3: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_retn</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 27: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 53: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_jkff</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 88: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_dff</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 115: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_sedff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 172: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_dff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 198: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph2p</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 241: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph1p</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 263: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph1p_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 290: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_retn_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 314: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_mux2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 333: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_edfft_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 373: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlatrf2_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 411: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_outrf</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 430: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_sedfft</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 481: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_edff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 517: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_jkff_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 555: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_mux4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 586: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_bmx</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 612: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlatrf</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 635: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_ph2p_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 677: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 703: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat2n_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 734: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_edfft</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 770: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_xprop</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 794: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlatrf_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 822: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_sedfft_PWR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 876: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_tlat2n</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 903: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslatn_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 928: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslat_pwr</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 953: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslatn</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/tsmc180/sc9tap_cm018mg_base_rvt_udp.v" Line 976: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">udp_rslat</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="957" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/spi_master.vhd" Line 511: Case choice must be a locally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="957" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/spi_master.vhd" Line 519: Case choice must be a locally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="957" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/spi_master.vhd" Line 527: Case choice must be a locally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="957" delta="unknown" >"D:/Dropbox/Graduation Research/52 VHDL blocks/SPI_master/spi_master.vhd" Line 536: Case choice must be a locally static expression
+</msg>
+
+</messages>
+

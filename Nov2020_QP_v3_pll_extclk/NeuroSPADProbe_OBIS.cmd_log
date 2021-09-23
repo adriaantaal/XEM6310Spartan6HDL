@@ -1,0 +1,176 @@
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2018_quadprobe_v1_03mmfpc_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2018_quadprobe_v1_03mmfpc_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2019quadprobev1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2019quadprobev1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2018_quadprobe_v1_03mmfpc_pll_intclk_noDTC_v2/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2018_quadprobe_v1_03mmfpc_pll_intclk_noDTC_v2/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2019quadprobev1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2018_quadprobe_v1_03mmfpc_pll_intclk_noDTC_v2/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2018_quadprobe_v1_03mmfpc_pll_intclk_noDTC_v2/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2019quadprobev1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2018_quadprobe_v1_03mmfpc_pll_intclk_noDTC_v2/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2018_quadprobe_v1_03mmfpc_pll_intclk_noDTC_v2/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2019quadprobev1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2018_quadprobe_v1_03mmfpc_pll_intclk_noDTC_v2/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2018_quadprobe_v1_03mmfpc_pll_intclk_noDTC_v2/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2019quadprobev1.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf -ucf 2019quadprobev1.ucf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2018_quadprobe_v1_03mmfpc_pll_intclk_noDTC_v2/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2018_quadprobe_v1_03mmfpc_pll_intclk_noDTC_v2/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2019quadprobev1.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf -ucf 2019quadprobev1.ucf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2019quadprobev1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf -ucf 2019quadprobev1.ucf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2020QP_invivov1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2020QP_invivov1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2020QP_invivov1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf -ucf 2020QP_invivov1.ucf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2020QP_invivov1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2020QP_invivov1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf -ucf 2020QP_invivov1.ucf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2020QP_invivov1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2020QP_invivov1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf -ucf 2020QP_invivov1.ucf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2020QP_invivov1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_intclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2020QP_invivov1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf -ucf 2020QP_invivov1.ucf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2020QP_invivov1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc 2020QP_invivov1.ucf -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf -ucf 2020QP_invivov1.ucf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc "D:/Dropbox/Graduation Research/52 VHDL blocks/at_modules/2020QP_ext_invivov3.ucf" -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "D:/Dropbox/Graduation Research/52 VHDL blocks/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc "D:/Dropbox/Graduation Research/52 VHDL blocks/at_modules/2020QP_ext_invivov3.ucf" -p xc6slx45-fgg484-2 "NeuroSPADProbe_OBIS.ngc" NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc /u5/adriaantaal/Xilinx/at_modules/2020QP_ext_invivov3.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc /u5/adriaantaal/Xilinx/at_modules/2020QP_ext_invivov3.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc /u5/adriaantaal/Xilinx/at_modules/2020QP_ext_invivov3.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc /u5/adriaantaal/Xilinx/at_modules/2020QP_ext_invivov3.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc /u5/adriaantaal/Xilinx/at_modules/2020QP_ext_invivov3.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc /u5/adriaantaal/Xilinx/at_modules/2020QP_ext_invivov3.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc /u5/adriaantaal/Xilinx/at_modules/2020QP_ext_invivov3.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc /u5/adriaantaal/Xilinx/at_modules/2020QP_ext_invivov3.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc /u5/adriaantaal/Xilinx/at_modules/2020QP_ext_invivov3.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml NeuroSPADProbe_OBIS.twx NeuroSPADProbe_OBIS.ncd -o NeuroSPADProbe_OBIS.twr NeuroSPADProbe_OBIS.pcf 
+bitgen -intstyle ise -f NeuroSPADProbe_OBIS.ut NeuroSPADProbe_OBIS.ncd 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc /u5/adriaantaal/Xilinx/at_modules/2020QP_ext_invivov3.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
+xst -intstyle ise -ifn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.xst" -ofn "/u5/adriaantaal/Xilinx/Nov2020_QP_v3_pll_extclk/NeuroSPADProbe_OBIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ../at_modules/opalkelly -sd ../at_modules/fifo -nt timestamp -uc /u5/adriaantaal/Xilinx/at_modules/2020QP_ext_invivov3.ucf -p xc6slx45-fgg484-2 NeuroSPADProbe_OBIS.ngc NeuroSPADProbe_OBIS.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ngd NeuroSPADProbe_OBIS.pcf 
+par -w -intstyle ise -ol high -mt off NeuroSPADProbe_OBIS_map.ncd NeuroSPADProbe_OBIS.ncd NeuroSPADProbe_OBIS.pcf 
